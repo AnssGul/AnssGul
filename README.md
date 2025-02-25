@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anusgul!  
+# 👋 Hi, I'm Muhammad Anus Gul!  
 🚀 **Passionate Developer** | 💻 **Tech Enthusiast** | 📊 **Data & Analytics Lover**  
 
 ## 🚀 About Me  

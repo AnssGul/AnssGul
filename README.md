@@ -9,5 +9,5 @@
   <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg" alt="WakaTime Stats 2" style="width: 80%; height: auto;"/>
 </p>
 <p align="center">
-  <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg](https://wakatime.com/share/@Anusgul/7fe31b84-72c7-445c-a34b-78e496b79e82.svg" alt="WakaTime Stats 2" style="width: 80%; height: auto;"/>
+  <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg" alt="WakaTime Stats 3" style="width: 80%; height: auto;"/>
 </p>

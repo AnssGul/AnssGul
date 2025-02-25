@@ -1,7 +1,8 @@
 ### ⏳ **WakaTime Coding Activity - 1**
 <p align="center">
-  <img src="https://wakatime.com/share/@Anusgul/0926c0a7-08a8-44fa-9df5-0b27521ade26.svg" alt="WakaTime Stats 1" width="400"/>
+  <img src="https://wakatime.com/share/@Anusgul/0926c0a7-08a8-44fa-9df5-0b27521ade26.svg" alt="WakaTime Stats 1" style="width: 100%; height: auto;"/>
 </p>
+
 
 ### ⏳ **WakaTime Coding Activity - 2**
 <p align="center">

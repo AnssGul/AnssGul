@@ -6,5 +6,5 @@
 
 ### ⏳ **WakaTime Coding Activity - 2**
 <p align="center">
-  <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg" alt="WakaTime Stats 2" style="width: 100%; height: auto;"/>
+  <img src="https://wakatime.com/share/@Anusgul/d4b5c875-6eab-44ef-954d-22aadfd3be83.svg" alt="WakaTime Stats 2" style="width: 80%; height: auto;"/>
 </p>

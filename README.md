@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Let's Connect!  
-- 🔗 **Portfolio:** [**muhammad-anus-gul.vercel.app**](https://muhammad-anus-gul.vercel.app)  
+- 🔗 **Portfolio:** [**https://thewebofmuhammad.vercel.app/**](https://thewebofmuhammad.vercel.app/)  
 - 💼 **LinkedIn:** [**Muhammad Anus Gul**](https://www.linkedin.com/in/muhammadanusgull/)  
 
 🚀 **"Code with passion, build with purpose!"**  
